@@ -8,3 +8,7 @@
 
 为了做一些有趣的东西,我近期在学习Go/pion-webrtc,同时也在review以前的学习记录.
 如果有兴趣和我聊聊,[点我](https://join.slack.com/t/release4go/shared_invite/zt-ff658nlc-UzOGwVJ4Ib3~RwVS~69MzA)
+
+### 我的想法
+
+- [对事的看法](https://63isok.github.io/love/)
