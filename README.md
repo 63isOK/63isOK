@@ -12,3 +12,5 @@
 ### 我的想法
 
 - [对事的看法](https://63isok.github.io/love/)
+
+![63isOK's github stats](https://github-readme-stats.vercel.app/api?username=63isOK&count_private=true&show_icons=true&theme=radical)
